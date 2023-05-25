@@ -6,7 +6,7 @@ As a passionate and experienced software developer with over 4 years of experien
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@muh4mmrd_) 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammed-r%C4%B1za-kaynak-a575a0238/))&nbsp;
+
 
 
 # 💻 Tech Stack:
