@@ -13,3 +13,6 @@ As a passionate and experienced software developer with over 4 years of experien
 
 
 ![IMG_0503](https://github.com/ViselnikAscet/ViselnikAscet/assets/80203023/8af2e0ea-ca0f-4c9e-91b1-4038ff5951a0)
+
+![WhatsApp Görsel 2023-05-25 saat 21 16 58](https://github.com/ViselnikAscet/ViselnikAscet/assets/80203023/9a5a398b-83c7-49ee-a7de-252bf17bf858)
+
