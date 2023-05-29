@@ -4,7 +4,9 @@ As a passionate and experienced software developer with over 4 years of experien
 
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@muh4mmrd_) 
+<blockquote>
+<a href="https://medium.com/@muh4mmrd_"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</blockquote>
 
 
 
