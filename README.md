@@ -22,5 +22,9 @@ As a passionate and experienced software developer with over 4 years of experien
 ![WhatsApp Görsel 2023-05-25 saat 21 16 58](https://github.com/ViselnikAscet/ViselnikAscet/assets/80203023/9a5a398b-83c7-49ee-a7de-252bf17bf858)
 ![WhatsApp Görsel 2023-05-25 saat 17 33 14](https://github.com/ViselnikAscet/ViselnikAscet/assets/80203023/0c418832-3cbc-4997-9eba-ffce4128c96a)
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+
 
 
