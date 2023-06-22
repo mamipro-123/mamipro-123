@@ -1,5 +1,5 @@
 
-#  About Me:
+#  About Me: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 As a passionate and experienced software developer with over 4 years of experience, I have honed my skills in Java and have gained a strong understanding of JavaScript and React Native. I am able to create high-quality and impactful projects using these technologies and I am constantly seeking new challenges to improve my abilities.<br><br>In addition to my technical skills, I am also well-versed in design tools such as Adobe XD, Figma, and Photoshop. I take pride in producing professional and aesthetically pleasing designs that truly stand out.<br><br>With a deep commitment to my craft, I am always eager to push my limits and create truly remarkable software.
 
 
