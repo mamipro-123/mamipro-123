@@ -2,11 +2,13 @@
 #  About Me: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-As a passionate and experienced software developer with over 4 years of experience, I have honed my skills in Java and have gained a strong understanding of JavaScript and React When I was a little kid, I loved putting my toys together to create imaginary robots. I would take them apart and then try to fix them, often saying, "Mom, why don't these toys have strings?" As time passed and I grew up, I started building and coding little robots on my own. My little hobby turned into a YouTube channel, teaching Software tutorials and getting sponsorships. During this period I also developed my design skills - being a content creator was no easy task!
+I’m Muhammed Rıza, a full-stack developer from İstanbul, Türkiye, with a deep passion for lifelong learning. Yesterday, today, and tomorrow—I’m always committed to improving myself while also working with AI technologies.
 
-Of course, time never stopped. Just before high school, I was mentored by a software developer I knew and I started coding for real. When I started high school, I participated in the FIRST Robotics Competition, which gave me the opportunity to build robots taller than me. As I got older, robotics became more of a hobby for me.
+My passion for technology began in childhood. Building small robots and watching my code come to life was an exciting experience. Over time, robotics became a hobby for me. Although I currently focus more on software, I participated in the FIRST Robotics Competition during high school, and in the following years, I assumed the role of a young mentor.
 
-Now, I am 17 years old and I spend my days constantly improving myself with dreams of starting my own company in the future. Besides my passion for technology and design, I love listening to music, playing guitar and I am also a soloist.
+Now, drawing on my professional experiences, I’m taking steps toward even bigger dreams. With each passing day, I find myself getting a little closer to founding the company I’ve always envisioned.
+
+If you want to dive deeper, you should definitely check out my website and blogs! 😊
 
 ## <img height="40" width="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Socials:
 <p align="left"><a 
